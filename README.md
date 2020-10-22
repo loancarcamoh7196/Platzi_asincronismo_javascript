@@ -1,2 +1,3 @@
-# Platzi_asincronismo_javascript
-Actividade de curso de Platzi, Asincronismo en Javascript
+# Platzi ~ Curso de Asincronismo JavaScript
+Actividades de curso de Platzi, Asincronismo en Javascript
+link: https://platzi.com/clases/asincronismo-js/
